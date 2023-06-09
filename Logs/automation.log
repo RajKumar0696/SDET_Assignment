@@ -1,3 +1,9 @@
-2023-06-10 00:44:40,768 INFO:*** Test_003_FormmAuthentication_DDT ***
-2023-06-10 00:44:47,668 INFO:*** Form authentication DDT test start ***
-2023-06-10 00:44:54,256 INFO:*** Form authentication DDT test end ***
+2023-06-10 00:48:28,512 INFO:*** Test_004_javaScriptAlert ***
+2023-06-10 00:48:32,402 INFO:*** Java script alerts tests start ***
+2023-06-10 00:48:32,402 INFO:*** Js simple alert test start ***
+2023-06-10 00:48:32,733 INFO:*** Js simple alert test end ***
+2023-06-10 00:48:32,733 INFO:*** Js conform alert test start ***
+2023-06-10 00:48:32,970 INFO:*** Js conform alert test end ***
+2023-06-10 00:48:32,970 INFO:*** Js prompt test start ***
+2023-06-10 00:48:33,270 INFO:*** Js prompt test end ***
+2023-06-10 00:48:33,283 INFO:*** Java script alerts tests end ***
