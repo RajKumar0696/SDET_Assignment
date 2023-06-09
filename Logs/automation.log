@@ -1,7 +1,4 @@
-2023-06-10 00:21:36,530 INFO:*** Test_001_BrokenImage ***
-2023-06-10 00:21:41,924 INFO:*** Broken image test start ***
-2023-06-10 00:21:43,361 INFO:This is not broken image !
-2023-06-10 00:21:44,611 INFO:This is broken image !
-2023-06-10 00:21:45,308 INFO:This is broken image !
-2023-06-10 00:21:45,938 INFO:This is not broken image !
-2023-06-10 00:21:45,939 INFO:*** Broken image test end ***
+2023-06-10 00:32:23,070 INFO:*** Test_002_FileUpload test ***
+2023-06-10 00:32:28,006 INFO:*** File upload test start ***
+2023-06-10 00:32:28,514 INFO:File uploaded successfully
+2023-06-10 00:32:28,846 INFO:*** File uploaded test end ***
