@@ -14,3 +14,8 @@ class ReadProperties:
     def get_file_upload_url():
         url = config.get('common_info', 'file_upload_url')
         return url
+    
+    @staticmethod
+    def get_auth_url():
+        url = config.get('common_info', 'form_authentication_url')
+        return url

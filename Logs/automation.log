@@ -1,4 +1,7 @@
-2023-06-10 00:32:23,070 INFO:*** Test_002_FileUpload test ***
-2023-06-10 00:32:28,006 INFO:*** File upload test start ***
-2023-06-10 00:32:28,514 INFO:File uploaded successfully
-2023-06-10 00:32:28,846 INFO:*** File uploaded test end ***
+2023-06-10 00:43:33,687 INFO:*** Test_003_FormAuthentication ***
+2023-06-10 00:43:38,711 INFO:*** Form authentication login test start ***
+2023-06-10 00:43:40,010 INFO:Login test passed
+2023-06-10 00:43:40,010 INFO:*** Form authentication login test end ***
+2023-06-10 00:43:40,010 INFO:*** Form authentication logout test start ***
+2023-06-10 00:43:41,019 INFO:Logout test passed
+2023-06-10 00:43:41,019 INFO:*** Form authentication logout test end ***
