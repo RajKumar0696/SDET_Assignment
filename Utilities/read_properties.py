@@ -24,3 +24,8 @@ class ReadProperties:
     def get_alert_url():
         url = config.get('common_info', 'java_script_alert_url')
         return url
+
+    @staticmethod
+    def get_drop_down_url():
+        url = config.get('common_info', 'drop_down_url')
+        return url

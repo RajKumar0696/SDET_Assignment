@@ -1,9 +1,6 @@
-2023-06-10 00:48:28,512 INFO:*** Test_004_javaScriptAlert ***
-2023-06-10 00:48:32,402 INFO:*** Java script alerts tests start ***
-2023-06-10 00:48:32,402 INFO:*** Js simple alert test start ***
-2023-06-10 00:48:32,733 INFO:*** Js simple alert test end ***
-2023-06-10 00:48:32,733 INFO:*** Js conform alert test start ***
-2023-06-10 00:48:32,970 INFO:*** Js conform alert test end ***
-2023-06-10 00:48:32,970 INFO:*** Js prompt test start ***
-2023-06-10 00:48:33,270 INFO:*** Js prompt test end ***
-2023-06-10 00:48:33,283 INFO:*** Java script alerts tests end ***
+2023-06-10 00:52:02,823 INFO:*** Test_005_DropDown test ***
+2023-06-10 00:52:09,148 INFO:*** Drop down test start ***
+2023-06-10 00:52:09,164 INFO:Drop down selected by visible text
+2023-06-10 00:52:11,229 INFO:Drop down selected by index
+2023-06-10 00:52:13,305 INFO:Drop down selected by value
+2023-06-10 00:52:15,354 INFO:*** Drop down test end ***
